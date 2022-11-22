@@ -2,4 +2,4 @@ this is b
 Hi I changed the file
 and again
 4 changing from local
-
+6 remote chnge
